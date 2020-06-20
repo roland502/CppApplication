@@ -1,5 +1,7 @@
 # CppApplication
 
+Program napisałem w Visual Studio 19, w standardzie C++17
+
 Opis programu znajduje się w pliku CommonSwCandidateTest.pdf.
 Program w zamyśle miał być napisany w języku C# i miał zostać w nim użyty plik CommonSwCandidateTest.Data.dll do
 wygenerowania danych. W mojej wersji zamiast pliku dll dodałem plik Main.h w którym znajdują się dane zapisane w zmiennej 
