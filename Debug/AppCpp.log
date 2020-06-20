@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\xxx\Desktop\AppCpp\Main.cpp(5,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\xxx\Desktop\AppCpp\Tree.h(3,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\xxx\Desktop\AppCpp\Tree.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\xxx\Desktop\AppCpp\Main.cpp(6,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  AppCpp.vcxproj -> C:\Users\xxx\Desktop\AppCpp\Debug\AppCpp.exe
